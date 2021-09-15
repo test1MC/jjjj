@@ -15,10 +15,5 @@
   <PDF
     Tagged="true"
     TitleBar="DocumentTitle" />
-  <Destinations>
-    <Destination
-      Link="/Project/Destinations/Destination.fldes"
-      Publish="true"
-      IsResource="false" />
-  </Destinations>
+  <Destinations></Destinations>
 </CatapultTarget>
